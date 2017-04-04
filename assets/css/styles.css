@@ -1,0 +1,60 @@
+p.espace {
+  margin: 4% 0 1% 0; }
+
+.river {
+  background: #32c5ee;
+  color: white; }
+
+.gazon {
+  background: #248d30; }
+
+.artistes img {
+  width: 80%; }
+
+ul.dame {
+  padding: 0;
+  border: 1px solid black; }
+  ul.dame li {
+    list-style-type: none; }
+  ul.dame li:first-child {
+    background: yellow; }
+
+ul.dame2 {
+  padding: 0;
+  border: 1px solid black; }
+  ul.dame2 li {
+    list-style-type: none; }
+  ul.dame2 li:first-child {
+    background: yellow; }
+
+ul.dame3 {
+  padding: 0;
+  border: 1px solid black; }
+  ul.dame3 li {
+    list-style-type: none; }
+  ul.dame3 li:first-child {
+    background: yellow;
+    flex: 1; }
+  ul.dame3 li:last-child {
+    background: yellow;
+    flex: 1; }
+
+ul.dame4 {
+  padding: 0;
+  border: 1px solid black; }
+  ul.dame4 li {
+    list-style-type: none; }
+
+.river2 {
+  background: #32c5ee; }
+
+.bergeG, .bergeD {
+  background: #248d30;
+  color: white;
+  min-height: 100px; }
+
+.fond {
+  background: url("../img/damier.png");
+  min-height: 350px; }
+
+/*# sourceMappingURL=styles.css.map */

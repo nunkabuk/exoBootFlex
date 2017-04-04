@@ -17,7 +17,7 @@
   <header class="row">
     <div class="col-sm-12">
       <h1>Entete</h1>
-      <p>Pour l'exercice bootstrap, modifiez uniquement le fichier index.php en ajoutant des classes bootstrap au bon endroit (col-xs-6 par exemple...)</p>
+      <p>Pour l'exercice bootstrap, modifiez uniquement le fichier <b>index.php</b> en ajoutant des classes bootstrap au bon endroit (col-xs-6 par exemple...)</p>
       <p>Pour l'exercice flexbox, ajouter les propriétés flexbox dans le fichier <b>app.scss</b> et n'oubliez pas de lancer la compilation avec la commande sass:
       </p>
       <code>sass --watch assets/scsscss:assets/css/styles.css

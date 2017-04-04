@@ -1,0 +1,85 @@
+@import "_colors";
+
+p.espace{
+  margin: 4% 0 1% 0;
+}
+.river{
+  background: $river;
+  color: white;
+}
+.gazon{
+  background: $gazon;
+}
+
+.artistes{
+    img{
+      width: 80%;
+    }
+}
+ul.dame{
+
+    padding: 0;
+    border: 1px solid black;
+    li{
+      list-style-type: none;
+    }
+    li:first-child{
+      background: yellow;
+    }
+}
+ul.dame2{
+
+    padding: 0;
+    border: 1px solid black;
+    li{
+      list-style-type: none;
+    }
+    li:first-child{
+      background: yellow;
+    }
+}
+ul.dame3{
+
+    padding: 0;
+    border: 1px solid black;
+    li{
+      list-style-type: none;
+    }
+    li:first-child{
+      background: yellow;
+      flex: 1;
+    }
+    li:last-child{
+      background: yellow;
+      flex: 1;
+    }
+}
+ul.dame4{
+
+    padding: 0;
+    border: 1px solid black;
+    li{
+      list-style-type: none;
+    }
+}
+.country{
+
+}
+.river2{
+  background: $river;
+
+}
+.bergeG, .bergeD{
+  background: $gazon;
+  color: white;
+  min-height: 100px;
+
+}
+.bergeD{
+
+}
+.fond{
+
+  background: url('../img/damier.png');
+  min-height: 350px;
+}

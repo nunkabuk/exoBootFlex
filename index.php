@@ -17,9 +17,13 @@
   <header class="row">
     <div class="col-sm-12">
       <h1>Entete</h1>
-      <p>Bootstrap : mots clefs : col-XX-XX, navbar, offset</p>
+      <p>Modifiez uniquement ce fichier en ajoutant des classes pour l'exercice bootstrap, pour l'exercice flexbox, ajouter les propriétés flexbox dans le fichier app.scss et n'oubliez pas de lancer la compilation avec la commande sass:
+      </p>
+      <code>sass --watch assets/scsscss:assets/css/styles.css
+      </code>
+      <p>Bootstrap : mots clefs et classes à ajouter au div existantes pour arriver au rendu final: col-XX-XX, navbar, offset</p>
       <p>Flex -> les propriétés flex: , order:, align-items, justify-content et leurs valeurs possibles</p>
-      <p>Il faut changer les styles dans le fichier assets/css/app.scss puis lancez la commande sass pour générer le fichier assets/css/styles.css pour arriver au même résultat que les captures d'écran résultat.png, resultat2.png et resultat3.png</p>
+      <p>Il faut changer les styles dans le fichier assets/css/app.scss puis lancez la commande sass pour générer le fichier assets/css/styles.css pour arriver au même résultat que les captures d'écran <b>resultat.png</b>, <b>resultat2.png</b> et <b>resultat3.png</b></p>
     </div>
   </header>
 
